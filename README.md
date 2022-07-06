@@ -37,7 +37,7 @@ Add workouts to bookmarks to view it later.
 
 Click on workouts to see it's location.
 
-                                                                       Roadmap
+                                                     Roadmap
 See the open issues for a list of proposed features (and known issues).
 
 Proposed features
@@ -60,10 +60,7 @@ Ability to draw lines and shapes instead of just points.
 Geocode location from coordinates (“Run in Shoghi, Shimla).
 
 Display weather data for workout time and place.
-
-
-                                                      Product Name Screen Shot
-                                                                     
+                                                                                                                     
                        ![Screenshot (205)](https://user-images.githubusercontent.com/92106776/177457103-bc30a59b-7c3f-4eb0-b86b-ffa1e92671b9.png)
 
 
