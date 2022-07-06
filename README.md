@@ -1,43 +1,25 @@
 
 
-                                                                            Mapty
+                                                      Mapty
 A Map application made with JavaScript to store workouts.
 
 
-
-
-Table of Contents
-About The Project
-Built With
-Getting Started
-Prerequisites
-Installation
-Usage
-Roadmap
-Contributing
-License
-Contact
-Acknowledgements
-About The Project
-Product Name Screen Shot
-
-
-                                                                  About The Project
+                                                    About The Project
 Mapty is a vanilla JavaScript application that interacts with the Leaflet library and display Map. This app uses modern JavaScript tools, such as Webpack to bundle the modules, and Babel to convert ES6, ES7 and ES8 back to ES5. The user can add workouts for running and cycling and these are stored via local storage.
 
-                                                                      Built With
+                                                    Built With
 This app is built with pure vanilla JavaScript along with HTML and SCSS. It uses webpack as module bundler and NPM as package manager.
 HTML
 SCSS
 JavaScript
 Webpack
 NPM
-                                                                    Getting Started
+                                                     Getting Started
 To get started with project just simply fork this repo or download locally on your System.
 
 To get a local copy up and running follow these simple example steps.
 
-                                                                    Prerequisites
+                                                       Prerequisites
 Start with the latest version of NPM to avoid any errors:
 
 npm
@@ -78,7 +60,10 @@ Ability to draw lines and shapes instead of just points.
 Geocode location from coordinates (“Run in Shoghi, Shimla).
 
 Display weather data for workout time and place.
-                                                                     Product Name Screen Shot
+
+
+                                                      Product Name Screen Shot
+                                                                     
                        ![Screenshot (205)](https://user-images.githubusercontent.com/92106776/177457103-bc30a59b-7c3f-4eb0-b86b-ffa1e92671b9.png)
 
 
@@ -94,12 +79,16 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Alwin TOmy - Say Hie
+Alwin Tomy - Say Hie
 
 Project Link: https://github.com/ALW-N/mapty
 
 Acknowledgements
+
 Img Shields
+
 Netlify
+
 Webpack
+
 Google Fonts
