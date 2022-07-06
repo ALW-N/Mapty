@@ -44,7 +44,7 @@ npm install npm@latest -g
 Installation
 Get Leaflet library Leaflet
 Clone the repo
-git clone https://github.com/PawanJS_/mapty.git
+git clone https://github.com/ALW-N/mapty.git
 Install NPM packages
 npm install
 Usage
@@ -90,7 +90,7 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Pawan JS - Say Hie
+Alwin TOmy - Say Hie
 
 Project Link: https://github.com/ALW-N/mapty
 
