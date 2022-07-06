@@ -61,10 +61,10 @@ Geocode location from coordinates (“Run in Shoghi, Shimla).
 
 Display weather data for workout time and place.
                                                                                                                      
-                       ![Screenshot (205)](https://user-images.githubusercontent.com/92106776/177457103-bc30a59b-7c3f-4eb0-b86b-ffa1e92671b9.png)
-
-
-Contributing
+                       
+![Screenshot (205)](https://user-images.githubusercontent.com/92106776/177457103-bc30a59b-7c3f-4eb0-b86b-ffa1e92671b9.png)
+                      
+                      Contributing
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are greatly appreciated.
 
 Fork the Project
@@ -76,11 +76,12 @@ License
 Distributed under the MIT License. See LICENSE for more information.
 
 Contact
-Alwin Tomy - Say Hie
+Alwin Tomy - Say Hi
+Twitter  -  https://twitter.com/AlwinTomy15
 
 Project Link: https://github.com/ALW-N/mapty
 
-Acknowledgements
+                    Acknowledgements
 
 Img Shields
 
